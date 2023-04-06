@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m Samuel. @sn0218
 - 👀 I’m interested in all technology stuffs.
-- 🌱 I’m currently learning Node.js, react, data structures and algorithms and more...
+- 🌱 I’m currently learning...
 - 📫 Reach me through samuelnhc@gmail.com.
 
 <!---
