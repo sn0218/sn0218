@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m Samuel. @sn0218
-- 👀 I’m interested in all technology stuffs.
-- 🌱 I’m currently learning...
+- 💼 Backend developer
+- 👀 I’m interested in web development.
 - 📫 Reach me through samuelnhc@gmail.com.
 
 <!---
